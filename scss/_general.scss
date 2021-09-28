@@ -14,16 +14,9 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  height: 100%;
   padding: 0;
   margin: 0;
   overflow-x: hidden;
-  font-family: $font-stack;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 22px;
-  color: $color-primary;
-  background-color: #F4F5F7;
 }
 
 main {
